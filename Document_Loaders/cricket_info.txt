@@ -1,0 +1,25 @@
+
+Cricket is a bat-and-ball game played between two teams of 11 players on a field at the center of which is a 22-yard pitch with a wicket at each end. The game is played in formats such as Test matches, One Day Internationals (ODIs), and Twenty20 Internationals (T20Is).
+
+Basic Rules:
+1. Each team takes turns to bat and bowl.
+2. The batting team tries to score as many runs as possible, while the bowling team aims to dismiss the batsmen.
+3. Runs are scored by hitting the ball and running between the wickets or by hitting the ball to the boundary.
+4. A match can be won by scoring more runs than the opposition, dismissing all opponents, or achieving the target within allotted overs.
+
+Popular Cricketing Nations:
+- India
+- Australia
+- England
+- Pakistan
+- South Africa
+- New Zealand
+- West Indies
+- Sri Lanka
+- Bangladesh
+
+Important Tournaments:
+- ICC Cricket World Cup
+- ICC T20 World Cup
+- The Ashes (England vs Australia)
+- Indian Premier League (IPL)
